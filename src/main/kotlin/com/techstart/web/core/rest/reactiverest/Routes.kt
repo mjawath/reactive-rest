@@ -18,3 +18,5 @@ fun router(itemHandler: ItemHandler) = router {
         }
     }
 }
+
+//https://medium.com/@oscdj113/spring-boot-2-with-webflux-kotlin-bb1a71167591
